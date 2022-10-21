@@ -1,0 +1,20 @@
+#head{
+    padding: 50px 0px 30px 0px;
+    margin-top: 0px;
+    text-align:center;
+  }
+  
+  body{
+    margin: 0 auto;
+    padding: 8px 16px;
+  }
+  
+  p{
+    font-size: 20px;
+  }
+
+  .pink-marker {
+    display: inline-block;
+    background: linear-gradient(transparent 50%, #ff9ff5c2 50%);
+}
+  
